@@ -1,0 +1,9 @@
+employee_id,name,salary,department,city
+1,Ravi,100000.0,Engineering,Vizag
+2,Hanu,450000.0,Marketing,Hyderabad
+3,Aaru,400000.0,Engineering,Mumbai
+5,Ivaan,700000.0,Finance,Delhi
+6,Priya,250000.0,Marketing,Vizag
+8,Meena,150000.0,Unknown,Chennai
+9,Arjun,800000.0,Finance,Unknown
+10,Divya,450000.0,Marketing,Hyderabad
